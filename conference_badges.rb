@@ -1,4 +1,4 @@
 # Write your code here.
-def badge_maker("Arel")
-  "Hello, my name is #{name}."
+def badge_maker
+  puts "Hello, my name is #{name}."
 end
